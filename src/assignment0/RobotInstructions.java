@@ -62,7 +62,7 @@ public class RobotInstructions  {
 		robot.turnRight(25);
 		robot.forward(30);
 		robot.turnRight(25);
-		robot.forward(31);
+		robot.forward(30);
 		robot.forward(300);
 	}
 
